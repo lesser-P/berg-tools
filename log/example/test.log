@@ -1,0 +1,4 @@
+{"level":"info","traceId":"0x000000000000berg","time":"2024-12-19T00:00:43+08:00","message":"Test"}
+{"level":"debug","traceId":"0x000000000000berg","time":"2024-12-19T00:00:43+08:00","message":"Test"}
+{"level":"warn","traceId":"0x000000000000berg","time":"2024-12-19T00:00:43+08:00","message":"Test"}
+{"level":"error","stack":[{"func":"TestExampleBergLog","line":"23","source":"log_test.go"},{"func":"tRunner","line":"1595","source":"testing.go"},{"func":"goexit","line":"1197","source":"asm_arm64.s"}],"error":"Test","traceId":"0x000000000000berg","time":"2024-12-19T00:00:43+08:00","message":"Test"}

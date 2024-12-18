@@ -1,0 +1,4 @@
+{"level":"info","traceId":"13185999712","caller":"/Users/yeninghui/Desktop/project/tool/dev-tool/log/log.go:42","time":"2024-12-18T23:30:05+08:00","message":"Test"}
+{"level":"debug","traceId":"13185999712","caller":"/Users/yeninghui/Desktop/project/tool/dev-tool/log/log.go:59","time":"2024-12-18T23:30:05+08:00","message":"Test"}
+{"level":"warn","traceId":"13185999712","caller":"/Users/yeninghui/Desktop/project/tool/dev-tool/log/log.go:48","time":"2024-12-18T23:30:05+08:00","message":"Test"}
+{"level":"error","error":"Test","traceId":"13185999712","caller":"/Users/yeninghui/Desktop/project/tool/dev-tool/log/log.go:54","time":"2024-12-18T23:30:05+08:00","message":"Test"}
