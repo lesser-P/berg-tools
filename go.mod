@@ -1,4 +1,4 @@
-module dev-tool
+module berg-tools
 
 go 1.21
 
