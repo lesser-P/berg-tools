@@ -1,4 +1,4 @@
-module berg-tools
+module github.com/lesser-P/berg-tools
 
 go 1.21
 
