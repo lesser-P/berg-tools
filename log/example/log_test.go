@@ -1,8 +1,8 @@
 package example
 
 import (
-	"berg-tools/log"
 	"context"
+	"github.com/lesser-P/berg-tools/log"
 	"github.com/pkg/errors"
 	"github.com/rs/zerolog"
 	"testing"
